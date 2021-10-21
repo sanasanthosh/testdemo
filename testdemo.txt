@@ -1,7 +1,13 @@
-hi welcome to git
+hi welcome to git branch merge conflict
 
 update for git branch
 
+master merge conflict
+
 inserteding line for merge
+
+
+
+merge conlict
 
 
