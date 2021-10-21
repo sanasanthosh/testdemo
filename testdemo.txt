@@ -4,4 +4,4 @@ update for git branch
 
 inserteding line for merge
 
-merge conlict
+
