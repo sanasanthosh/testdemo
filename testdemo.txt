@@ -6,7 +6,6 @@ master merge conflict
 
 inserteding line for merge
 
-merge conlict
-
-added rebase
+=======
+>>>>>>> b0c84964ba01a4a4302b2a4986f416c363c35390
 
