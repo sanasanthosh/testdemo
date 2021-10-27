@@ -4,4 +4,6 @@ update for git branch
 
 inserteding line for merge
 
+hi git rebase addition
+
 
